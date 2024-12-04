@@ -37,7 +37,6 @@ public class A4Switch {
 		case 4:
 			System.out.println("O resulto é: " + (num1 / num2));
 			break;
-			
 		}
 		
 
